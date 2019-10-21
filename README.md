@@ -10,3 +10,10 @@
 1. 次に
 
 * [Google](https://google.com)
+
+---
+
+|NO|COMMAND|
+|:-:|:-:|
+|1|git init|
+|2|git status|
